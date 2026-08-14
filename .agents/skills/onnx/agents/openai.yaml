@@ -1,0 +1,6 @@
+interface:
+  display_name: "Onnx"
+  short_description: "Repo-specific patterns and workflows for onnx"
+  default_prompt: "Use the onnx repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
