@@ -1,2 +1,31 @@
-Last updated: 2026-09-12 23:10:18 WIB
-Last updated: 2026-09-12 23:13:10 WIB
+# onnx
+
+
+
+## 📋 Overview
+
+This repository contains **1459 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 00:02:43 WIB*
